@@ -1,32 +1,19 @@
 ![Ourinvest](https://user-images.githubusercontent.com/100213910/185933007-39866608-8cbc-4f50-91fc-90e8c3cfcb91.png)
 
-# People
+<details><summary><h2>People</h2></summary>
+<p>
 
-### Backend
+| Backend |  Frontend | Infra |
+| :---: | :---: | :---: |
+| Bruno Hassan Mouazzem | Arthur Bruno Barbosa de Freitas | Dhennon Martins |
+| Conrado Lourenço Silva | Erick Zen | Diego Felfeli |
+| Gabriel Bonani Machado | Erick Karl | Rodolfo Santana |
+| Guilherme Campiani | Gabriel de Barros Pontes | |
+| Juliana Marchi | Hugo Bentivegna | |
+| Juliane Moraes Vianna | Richard Netto | |
+| Leonardo Beretta | Talitha Ribeiro Rodrigues | |
+| Letícia Oliveira | | |
+| Lucas Carignato | | |
+| Raphael Oliveira | | |
 
-- Bruno Hassan Mouazzem
-- Conrado Lourenço Silva
-- Gabriel Bonani Machado
-- Guilherme Campiani
-- Juliana Marchi
-- Juliane Moraes Vianna
-- Leonardo Beretta
-- Letícia Oliveira
-- Lucas Carignato
-- Raphael Oliveira
-
-### Frontend
-
-- Arthur Bruno Barbosa de Freitas
-- Erick Zen
-- Erick Karl
-- Gabriel de Barros Pontes
-- Hugo Bentivegna
-- Richard Netto
-- Talitha Ribeiro Rodrigues
-
-### Infra
-
-- Dhennon Martins
-- Diego Felfeli
-- Rodolfo Santana
+<p>
