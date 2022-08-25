@@ -24,6 +24,9 @@ Organização do Banco Ourinvest, sustentado especificamente pela área de Negó
   
   ## SGA
   
+  ![Frame 2](https://user-images.githubusercontent.com/100213910/186756967-6ed8dba9-8a85-4ea3-babf-3683eafccf9e.png)
+  
+  Esteira completa para inserção de CNAB, processamento de titúlo, avaliação da CERC entre outras integrações
   
   <p>
   </details>
